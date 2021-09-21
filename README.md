@@ -1,5 +1,7 @@
 # Ansible Role for cloud-init
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-cloud_init/master)](https://gitlab.com/alvistack/ansible-role-cloud_init/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-cloud_init.svg)](https://github.com/alvistack/ansible-role-cloud_init/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-cloud_init.svg)](https://github.com/alvistack/ansible-role-cloud_init/blob/master/LICENSE)
