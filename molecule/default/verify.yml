@@ -19,6 +19,6 @@
   become: true
   tasks:
     - name: cloud-init --version
-      command: cloud-init --version
+      ansible.builtin.command: cloud-init --version
       register: result
       changed_when: result is not succeeded
