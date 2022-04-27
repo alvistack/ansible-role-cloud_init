@@ -20,5 +20,5 @@
   tasks:
     - name: include role
       ansible.builtin.include_role:
-        name: cloud_init
-      tags: cloud_init
+        name: alvistack.cloud_init
+      tags: alvistack.cloud_init
